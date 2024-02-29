@@ -2,5 +2,7 @@
     "cSpell.words": [
         "qarma",
         "qarmav"
-    ]
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true
 }
